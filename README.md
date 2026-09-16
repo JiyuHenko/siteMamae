@@ -1,88 +1,71 @@
 # Fernanda Lemos · Nutricionista
 
-Site institucional estático criado exclusivamente no `siteMamae`, com a identidade visual enviada pela família. HTML semântico, CSS e JavaScript modular, sem framework, sem build e sem dependências de produção.
+Site institucional com identidade rosada, páginas estáticas e contato direto. HTML semântico, CSS e JavaScript modular, sem framework ou dependências de produção. Fontes, imagens e marcas locais.
 
-**Estado da entrega:** implementação pronta para publicação. WhatsApp, Instagram, CRN, e-mail e endereço profissional foram configurados com os dados confirmados de Fernanda Lemos. O fluxo de agendamento direciona para o WhatsApp e não existe formulário que finja enviar ou confirmar uma consulta.
+Esta evolução está na branch **`codex/rosa-multipaginas-seo`**. Ela não altera a configuração do GitHub Pages nem publica em outro serviço.
 
-## Executar
+## Executar e validar
 
-Com Node.js 20 ou superior:
-
-```bash
-npm run dev
-```
-
-Abra `http://localhost:4173/siteMamae/`. Também funciona na raiz do servidor. Não é necessário executar `npm install`.
+Com Node.js 20 ou superior, sem precisar de `npm install`:
 
 ```bash
-npm run check  # arquivos, links, fontes, módulos, âncoras, ARIA e metadados
-npm test       # lógica de contato e seleção de assuntos por teclado
+npm run build  # gera HTML, versões Markdown e arquivos de descoberta
+npm run dev    # http://localhost:4173/siteMamae/
+npm run check  # sintaxe, assets, links, âncoras, ARIA e metadados
+npm test       # oito testes de interações, SEO e mapa
 ```
 
-Os testes não substituem revisão visual nem avaliação com leitor de tela.
+O servidor também atende na raiz. Após editar fontes, execute o build e atualize o navegador. `npm run seo` é um alias para a geração completa, mantendo páginas e metadados consistentes.
 
-## Dados profissionais
+Os arquivos HTML gerados ficam versionados. O GitHub Pages pode servi-los diretamente, sem instalar pacotes ou executar um build na hospedagem.
 
-Os dados públicos ficam centralizados em `config.js`:
+## Páginas
 
-- Nome: Fernanda Lemos
-- Registro: CRN 9-30894
-- WhatsApp profissional: +55 35 99981-9701
-- Instagram: `@nutri.fernandalemos`
-- E-mail: `fernandamlsf@gmail.com`
-- Endereço informado: Rua Boa Vista, 135, apto 301 · Santa Casa · Passos - MG · CEP 37904-018
-- URL preparada para produção: `https://jiyuhenko.github.io/siteMamae`
+| Caminho | Conteúdo |
+| --- | --- |
+| `/` | Apresentação e caminhos para explorar o site |
+| `/sobre/` | Fernanda, registro profissional e proposta de cuidado |
+| `/acompanhamento/` | Assuntos, etapas e primeiro contato |
+| `/conteudos/` | Índice editorial para crescer com conteúdo real |
+| `/conteudos/primeira-consulta/` | Guia prático para organizar o primeiro encontro |
+| `/duvidas/` | Perguntas frequentes |
+| `/contato/` | Contatos, endereço e mapa |
+| `/privacidade.html` | Funcionamento do site e serviços externos |
+| `/404.html` | Recuperação de endereços inexistentes |
 
-O botão de contato monta uma mensagem inicial no WhatsApp conforme o assunto escolhido pelo visitante. Instagram, e-mail, telefone, endereço e identificação profissional também são apresentados no site.
+Os caminhos são relativos à base configurada: `https://jiyuhenko.github.io/siteMamae/`.
 
-Após definir ou alterar o domínio:
+## Editar
 
-```bash
-npm run seo
-npm run check
-```
+- **Dados profissionais e domínio:** `config.js`.
+- **Rotas, títulos, descrições e datas:** `content/pages.js`.
+- **Conteúdo:** `content/pages/*.html`.
+- **Cabeçalho, rodapé, metadados e geração:** `scripts/build.mjs`.
+- **Estilos:** `assets/css/styles.css` e `assets/css/pages.css`.
+- **Interações:** `assets/js/`.
 
-Esse comando atualiza canonical, Open Graph, sitemap, robots e os caminhos absolutos da página 404. Não publica o site.
+Edite as fontes e execute `npm run build`. Não edite diretamente o HTML gerado: a próxima geração substitui essas alterações. Consulte o [guia de conteúdo](docs/CONTENT.md).
 
-## Publicação
+## Contato e localização
 
-O projeto está pronto para hospedagem estática no GitHub Pages. No repositório, configure **Settings → Pages → Deploy from a branch → main → /(root)**. Depois de salvar, a URL esperada é:
+Os dados fornecidos estão preenchidos: Fernanda Lemos, CRN 9-30894, WhatsApp `(35) 99981-9701`, `fernandamlsf@gmail.com`, Instagram `@nutri.fernandalemos` e Rua Boa Vista, 135, apto 301, Santa Casa, Passos/MG, CEP 37904-018.
 
-`https://jiyuhenko.github.io/siteMamae/`
+Os contatos estão no HTML e funcionam sem JavaScript. O diálogo ajuda a escolher um assunto e abrir uma mensagem editável no WhatsApp. O site não envia mensagens nem confirma consultas.
 
-O workflow incluído verifica qualidade; a publicação do Pages continua controlada pelas configurações do próprio repositório.
+O mapa do Google carrega sob escolha do visitante. Links para consultar o endereço e traçar rota ficam sempre disponíveis. A busca usa o endereço informado; não depende de um Perfil da Empresa já cadastrado.
 
-## Estrutura
+## Revisar no GitHub Pages
 
-```text
-index.html              Conteúdo, SEO inicial e estrutura semântica
-privacidade.html        Explicação do funcionamento e dos dados
-404.html                Página de erro com retorno ao início
-config.js               Dados públicos de contato e URL
-assets/css/styles.css   Tokens, seções, componentes e responsividade
-assets/js/              Navegação, movimento, seletor e contato
-assets/fonts/           Fontes locais e licenças
-assets/img/             Marca otimizada, fotografias e ícones
-assets/brand/           Arquivos originais da identidade, preservados
-docs/                   Direção de arte, origem dos assets e validação
-scripts/                Servidor local, checagens e sincronização de SEO
-tests/                  Testes sem dependências externas
-```
+Quando decidir exibir esta versão, escolha **Settings → Pages → Deploy from a branch → `codex/rosa-multipaginas-seo` → `/(root)`**. Essa troca fica sob controle do proprietário.
 
-## Interações
+O workflow `site-quality.yml` verifica geração reproduzível, código, links e testes. Ele não faz deploy.
 
-- Entrada suave do hero e revelações pontuais de seção.
-- Foto com deslocamento discreto em desktop; selo acompanha a rolagem.
-- Órbita que indica o avanço nas três etapas do acompanhamento.
-- Seletor de assuntos com clique, setas, Home e End.
-- Menu móvel com fechamento por Escape, seleção de link e saída de foco.
-- FAQ com `details` nativo.
-- Diálogo de contato com foco contido pelo navegador e retorno ao botão de origem.
-- `prefers-reduced-motion` respeitado, inclusive quando a preferência muda durante a visita.
-- Com JavaScript desativado, conteúdo, navegação, FAQ e todos os painéis continuam acessíveis.
+Ao usar domínio próprio, atualize `siteUrl` em `config.js`, execute `npm run build` e versione os resultados. O [guia de SEO](docs/SEO.md) explica canonical, sitemap, descoberta por IA e a particularidade do `robots.txt` em um projeto do GitHub Pages.
 
-## Referências
+## Documentação
 
-Foram lidos `siteOficial`, `siteCaligulas`, `sitePatricia` e `SiteLara`. Nenhum deles foi alterado. A arquitetura e o uso comedido das animações foram estudados; não foram reaproveitados dados de contato ou conteúdo comercial de outros clientes.
-
-Consulte [direção de arte](docs/DESIGN.md), [origem dos assets](docs/ASSETS.md) e [validação](docs/VALIDATION.md).
+- [Direção de arte](docs/DESIGN.md)
+- [Origem dos assets](docs/ASSETS.md)
+- [Como adicionar conteúdo](docs/CONTENT.md)
+- [SEO e descoberta](docs/SEO.md)
+- [Validação e limites da revisão](docs/VALIDATION.md)

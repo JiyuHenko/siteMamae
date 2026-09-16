@@ -1,4 +1,8 @@
+# Effective only when served at the origin root /robots.txt. See docs/SEO.md.
 User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
 Allow: /
 
 Sitemap: https://jiyuhenko.github.io/siteMamae/sitemap.xml

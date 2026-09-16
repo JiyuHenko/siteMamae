@@ -1,0 +1,30 @@
+# Fernanda Lemos · Nutricionista em Passos, MG
+
+> Site da nutricionista Fernanda Lemos, CRN 9-30894, em Passos, Minas Gerais. Apresentação, proposta de acompanhamento, conteúdo prático e contato.
+
+## Informações profissionais
+
+- Nome: Fernanda Lemos
+- Registro profissional: CRN 9-30894
+- Endereço informado: Rua Boa Vista, 135, apto 301 · Santa Casa · Passos - MG · CEP 37904-018
+- WhatsApp e telefone: (35) 99981-9701
+- E-mail: fernandamlsf@gmail.com
+- Instagram: https://www.instagram.com/nutri.fernandalemos/
+
+Horários, valores, modalidades e local da consulta são confirmados diretamente com a profissional. O site não confirma agendamentos automaticamente. As páginas não informam especialidades, avaliações de pacientes ou resultados garantidos.
+
+## Páginas em Markdown
+
+- [Início](https://jiyuhenko.github.io/siteMamae/index.md): Fernanda Lemos, nutricionista em Passos, MG. CRN 9-30894. Conheça a proposta de acompanhamento e converse pelo WhatsApp sobre sua consulta.
+- [Sobre a Fernanda](https://jiyuhenko.github.io/siteMamae/sobre/index.md): Conheça Fernanda Lemos, nutricionista em Passos, MG, CRN 9-30894, e sua proposta de cuidado com escuta, individualidade e respeito à rotina.
+- [Acompanhamento](https://jiyuhenko.github.io/siteMamae/acompanhamento/index.md): Entenda a proposta de acompanhamento nutricional de Fernanda Lemos: escuta, construção do cuidado e ajustes que consideram sua rotina e preferências.
+- [Conteúdos](https://jiyuhenko.github.io/siteMamae/conteudos/index.md): Informações práticas para conhecer o acompanhamento de Fernanda Lemos, organizar a primeira consulta e encontrar respostas para suas dúvidas.
+- [Dúvidas frequentes](https://jiyuhenko.github.io/siteMamae/duvidas/index.md): Tire dúvidas sobre a primeira consulta, preferências alimentares e agendamento com Fernanda Lemos, nutricionista em Passos, MG.
+- [Contato e localização](https://jiyuhenko.github.io/siteMamae/contato/index.md): Agende com Fernanda Lemos pelo WhatsApp (35) 99981-9701. Veja e-mail, Instagram, endereço em Passos, MG e mapa com orientações de como chegar.
+- [Sua primeira consulta](https://jiyuhenko.github.io/siteMamae/conteudos/primeira-consulta/index.md): Veja o que vale anotar e quais informações confirmar com Fernanda Lemos antes da primeira consulta nutricional: dúvidas, rotina, local e agendamento.
+
+## Referências do site
+
+- [Página inicial](https://jiyuhenko.github.io/siteMamae/)
+- [Sitemap](https://jiyuhenko.github.io/siteMamae/sitemap.xml)
+- [Privacidade](https://jiyuhenko.github.io/siteMamae/privacidade.html)

@@ -36,6 +36,8 @@ for (const file of files) {
     for (const match of text.matchAll(/(?:from|import)\s*['"](\.[^'"]+)['"]/g)) await checkRef(match[1],file);
   }
   if (type === '.html') {
+    // Source fragments are checked through their complete generated pages.
+    if (relative(root, file).startsWith('content/')) continue;
     const html = await readFile(file, 'utf8');
     const ids = [...html.matchAll(/\bid="([^"]+)"/g)].map(m => m[1]);
     if (new Set(ids).size !== ids.length) errors.push(`IDs duplicados: ${relative(root,file)}`);

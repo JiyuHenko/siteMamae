@@ -1,44 +1,34 @@
 # Direção de arte
 
-## Tese
+## Conceito
 
-Um espaço editorial calmo: papel, cerâmica, alimento e luz natural. O site apresenta Fernanda com proximidade, preservando a marca fornecida e evitando a estética de clínica genérica ou promessa de transformação corporal.
-
-## Arquitetura de conteúdo
-
-1. **Abertura:** “Nutrir o corpo. Acolher a vida.” e entrada para o acompanhamento.
-2. **Meu olhar:** apresentação da profissional e da proposta de cuidado. A marca ocupa o espaço visual; não existe retrato artificial apresentado como Fernanda.
-3. **Para você:** três pontos de partida, navegáveis por teclado, sem diagnosticar ou prescrever.
-4. **Acompanhamento:** escuta, construção e continuidade.
-5. **Manifesto visual:** espaço para o prazer e a vida à mesa.
-6. **Dúvidas:** expectativas e orientações práticas para o primeiro contato.
-7. **Contato:** canal só é ativado após o preenchimento do número real.
+Um espaço editorial acolhedor: papel, cerâmica, alimento e luz natural. A marca enviada pela família permanece como assinatura. A evolução mantém o rosado como cor principal, conforme solicitado, com verde apenas em pequenos detalhes.
 
 ## Sistema visual
 
-- Base de papel `#f6f4ed`; superfície secundária `#eeece2`.
-- Verde-oliva `#4d573f`; fundo profundo `#394531`.
-- Rosé de texto `#955a4d`, mais escuro para contraste; blush de superfície `#ead8ce`.
-- Cormorant Garamond nos títulos; DM Sans na leitura e nos controles. Fontes locais.
-- Fotografia com luz natural, linho e cerâmica. Nada de balanças, métricas inventadas, “antes e depois” ou depoimentos fictícios.
+- Papel rosado `#fcf7f4`; superfície secundária `#f3e6e2`.
+- Rosé `#965963` nos botões e destaques; tom profundo `#70434e`.
+- Texto `#48363e`, texto secundário `#71616a`, blush `#e8c9c6`.
+- Verde-oliva `#58614b` em detalhes, números e orientação de localização.
+- Cormorant Garamond nos títulos; DM Sans no corpo e controles. Fontes locais.
+- Fotografias do projeto existente, com luz natural, linho e cerâmica. Sem retrato sintético apresentado como Fernanda, métricas inventadas ou depoimentos fictícios.
+
+## Navegação e páginas
+
+A abertura apresenta a proposta e encaminha para páginas próprias de apresentação, acompanhamento, conteúdos, dúvidas e contato. Breadcrumbs, títulos específicos, navegação ativa e links contextuais ajudam a reconhecer o lugar no site.
+
+O conteúdo inicial inclui um guia prático para a primeira consulta. Novos materiais devem entrar no índice editorial quando houver conteúdo real revisado pela profissional.
+
+## Rodapé
+
+No desktop, quatro grupos: marca e registro, navegação, canais de contato e endereço. A linha inferior separa direitos, privacidade e retorno ao topo.
+
+No celular, a identidade ocupa a largura, a navegação se distribui em duas colunas e os contatos e endereço ganham espaço próprio. O e-mail e o Instagram não ficam comprimidos numa coluna estreita. Uma barra de WhatsApp permanece acessível, com espaço reservado na página e respeito à área segura do dispositivo.
 
 ## Movimento
 
-Assinatura: a órbita da marca avança conforme as três etapas entram na leitura. Ela orienta, não captura o scroll.
+Mantidas as entradas suaves, o deslocamento discreto da fotografia e a órbita das etapas do acompanhamento. Não há captura de rolagem. Em telas pequenas, a foto fica estática e a órbita é removida. A preferência por movimento reduzido é respeitada.
 
-Apoio: enquadramento discreto da foto do hero e entradas suaves pontuais. As animações de scroll usam `requestAnimationFrame` sob demanda, sem loop permanente, sem biblioteca, sem interceptar wheel ou touch.
+## Conteúdo profissional
 
-Em telas pequenas, a história vira uma sequência vertical e a órbita é removida. A foto fica estática. Com movimento reduzido, transformações e transições são desativadas e todo o conteúdo aparece.
-
-## Referências estudadas, somente leitura
-
-- **siteOficial:** arquitetura declarada, manifesto de design, cookbook, código de movimento, tratamento de movimento reduzido e distinção desktop/mobile.
-- **siteCaligulas:** estrutura estática modular, configuração pública centralizada, menu, hero vinculado ao scroll e revelações com IntersectionObserver.
-- **sitePatricia:** composição editorial, Cormorant/DM Sans e cuidado com CTA e leitura no mobile.
-- **SiteLara:** microsite leve, assets WebP e interações pontuais.
-
-A referência orienta o método. A paleta, as imagens, o ritmo, o conteúdo e os componentes foram criados para a identidade de Fernanda.
-
-## Informações ainda não fornecidas
-
-WhatsApp, CRN, perfil oficial de Instagram, endereço, modalidades, valores, currículo e retrato profissional. O site não preenche esses dados com suposições. A profissional deve validar a apresentação e a descrição do acompanhamento antes do lançamento.
+Nome, CRN, telefone, e-mail, Instagram e endereço vieram dos dados fornecidos. Currículo, especialidades, valores, horários, modalidades e retrato profissional não são presumidos. A apresentação e o funcionamento do atendimento devem ser revisados com Fernanda antes da publicação final.

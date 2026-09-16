@@ -7,7 +7,7 @@ import { siteConfig } from '../config.js';
 const root = resolve(fileURLToPath(new URL('../', import.meta.url)));
 const base = new URL(siteConfig.siteUrl).pathname.replace(/\/$/, '');
 const port = Number(process.env.SITE_PORT || 4173);
-const types = { '.html':'text/html; charset=utf-8', '.js':'text/javascript; charset=utf-8', '.css':'text/css; charset=utf-8', '.json':'application/json', '.webmanifest':'application/manifest+json', '.woff2':'font/woff2', '.webp':'image/webp', '.png':'image/png', '.jpg':'image/jpeg', '.svg':'image/svg+xml', '.xml':'application/xml', '.txt':'text/plain; charset=utf-8' };
+const types = { '.html':'text/html; charset=utf-8', '.js':'text/javascript; charset=utf-8', '.css':'text/css; charset=utf-8', '.json':'application/json', '.webmanifest':'application/manifest+json', '.woff2':'font/woff2', '.webp':'image/webp', '.png':'image/png', '.jpg':'image/jpeg', '.svg':'image/svg+xml', '.xml':'application/xml', '.txt':'text/plain; charset=utf-8', '.md':'text/markdown; charset=utf-8' };
 
 createServer(async (req, res) => {
   if (!['GET','HEAD'].includes(req.method)) { res.writeHead(405); res.end(); return; }

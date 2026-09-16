@@ -35,7 +35,7 @@ export function initNavigation() {
   updateHeader();
   // Real anchors retain native URL, keyboard and no-JavaScript behavior.
   if ('IntersectionObserver' in window) {
-    const links = [...document.querySelectorAll('.desktop-nav a')];
+    const links = [...document.querySelectorAll('.desktop-nav a')].filter(link => link.hash && link.pathname === location.pathname);
     const observer = new IntersectionObserver(entries => {
       for (const entry of entries) {
         if (!entry.isIntersecting) continue;
@@ -45,6 +45,6 @@ export function initNavigation() {
         });
       }
     }, { rootMargin: '-20% 0px -55% 0px', threshold: 0 });
-    links.forEach(link => { const section = document.querySelector(link.hash); if (section) observer.observe(section); });
+    links.forEach(link => { const section = document.getElementById(decodeURIComponent(link.hash.slice(1))); if (section) observer.observe(section); });
   }
 }

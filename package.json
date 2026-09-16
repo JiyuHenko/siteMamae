@@ -5,6 +5,7 @@
   "type": "module",
   "description": "Site estático de Fernanda Lemos, nutricionista",
   "scripts": {
+    "build": "node scripts/build.mjs",
     "dev": "node scripts/serve.mjs",
     "check": "node scripts/check.mjs",
     "test": "node --test tests/*.test.mjs",

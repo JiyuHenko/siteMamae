@@ -22,7 +22,7 @@ test('contato normaliza pontuação e codifica a mensagem sem misturar parâmetr
 // Minimal DOM event model. Tests use the real markup and real enhancement module;
 // this checks keyboard/state logic, not browser rendering or a screen reader.
 function setupTabs(context) {
-  const html = readFileSync(new URL('../index.html', import.meta.url), 'utf8');
+  const html = readFileSync(new URL('../acompanhamento/index.html', import.meta.url), 'utf8');
   const oldDocument = globalThis.document;
   class Element extends EventTarget {
     constructor(tag) {
