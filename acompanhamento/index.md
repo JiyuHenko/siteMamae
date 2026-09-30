@@ -78,7 +78,7 @@ Antes de agendar
 
 ## Os detalhes fazem parte da conversa.
 
-Valores, horários, modalidades e local de atendimento são combinados diretamente com a Fernanda. O site apresenta a proposta do acompanhamento; cada cuidado depende de uma avaliação individual.
+Valores, horários, modalidades e local de atendimento são combinados no agendamento. O site apresenta a proposta do acompanhamento; cada cuidado depende de uma avaliação individual.
 
 [Consultar disponibilidade](https://jiyuhenko.github.io/siteMamae/contato/)
 
@@ -86,7 +86,7 @@ Valores, horários, modalidades e local de atendimento são combinados diretamen
 
 Fernanda Lemos · Nutricionista · CRN 9-30894
 
-Rua Boa Vista, 135, apto 301 · Santa Casa · Passos - MG · CEP 37904-018
+Rua Boa Vista, 135, sala 301 · Santa Casa · Passos - MG · CEP 37904-018
 
 WhatsApp: (35) 99981-9701
 

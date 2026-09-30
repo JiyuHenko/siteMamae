@@ -37,3 +37,7 @@ O guia inicial de primeira consulta é informativo e administrativo. Não consti
 Atualize `siteUrl` em `config.js` e execute o build. Canonicals, dados estruturados, compartilhamento, sitemap e links de descoberta serão regenerados. O endereço base pode conter `/siteMamae/` ou ser a raiz de um domínio próprio.
 
 Depois de publicar no novo domínio, confira os redirecionamentos, configure a propriedade correspondente no Search Console e envie o novo sitemap. Veja [SEO](SEO.md).
+
+## Ajustes de contato · 30/09/2026
+
+O botão Agendar consulta no cabeçalho abre diretamente o WhatsApp. Em Dúvidas, o campo Sua pergunta usa um formulário HTML nativo para abrir o texto no WhatsApp; funciona sem JavaScript e o envio é revisado pelo visitante. O endereço identifica a sala 301. As orientações de agendamento usam o canal de contato, evitando a expressão diretamente com a Fernanda.

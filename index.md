@@ -56,7 +56,7 @@ Com afeto, Fernanda.
 
 Fernanda Lemos · Nutricionista · CRN 9-30894
 
-Rua Boa Vista, 135, apto 301 · Santa Casa · Passos - MG · CEP 37904-018
+Rua Boa Vista, 135, sala 301 · Santa Casa · Passos - MG · CEP 37904-018
 
 WhatsApp: (35) 99981-9701
 

@@ -48,7 +48,7 @@ Edite as fontes e execute `npm run build`. Não edite diretamente o HTML gerado:
 
 ## Contato e localização
 
-Os dados fornecidos estão preenchidos: Fernanda Lemos, CRN 9-30894, WhatsApp `(35) 99981-9701`, `fernandamlsf@gmail.com`, Instagram `@nutri.fernandalemos` e Rua Boa Vista, 135, apto 301, Santa Casa, Passos/MG, CEP 37904-018.
+Os dados fornecidos estão preenchidos: Fernanda Lemos, CRN 9-30894, WhatsApp `(35) 99981-9701`, `fernandamlsf@gmail.com`, Instagram `@nutri.fernandalemos` e Rua Boa Vista, 135, sala 301, Santa Casa, Passos/MG, CEP 37904-018.
 
 Os contatos estão no HTML e funcionam sem JavaScript. O diálogo ajuda a escolher um assunto e abrir uma mensagem editável no WhatsApp. O site não envia mensagens nem confirma consultas.
 

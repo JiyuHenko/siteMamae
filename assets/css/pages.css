@@ -52,6 +52,18 @@
 @media(max-width:760px){.about-portrait{max-width:430px;align-self:center}.about-portrait picture{border-radius:140px 140px 10px 10px}.about-portrait-caption strong{font-size:1.6rem}.contact-channels{flex-direction:column;align-items:flex-start;gap:0;margin-top:1.25rem}}
 
 /* Each page has a real URL and a visible path back through the content. */
+/* Native form: a question can continue to WhatsApp without JavaScript. */
+.question-section{display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:4rem;align-items:start;padding:3rem;margin-bottom:5rem;background:#f7ebe7;border:1px solid var(--line);border-radius:16px}
+.question-copy h2{font-size:clamp(2.5rem,4vw,3.4rem);margin:1rem 0 1.25rem}
+.question-copy>p:not(.eyebrow){font-size:1rem;line-height:1.8;color:var(--muted);max-width:350px}
+.question-form{min-width:0}
+.question-form label{display:block;font-size:.875rem;font-weight:600;margin-bottom:.6rem}
+.question-form textarea{display:block;width:100%;max-width:100%;min-height:155px;padding:1rem;font:1rem/1.7 var(--body);color:var(--ink);background:var(--paper);border:1px solid #bd969b;border-radius:8px;resize:vertical}
+.question-form textarea::placeholder{color:var(--muted)}
+.question-form textarea:focus-visible{outline:2px solid var(--rose);outline-offset:3px}
+.question-note{font-size:.8125rem;line-height:1.75;color:var(--muted);margin:.75rem 0 1.1rem}
+@media(max-width:760px){.question-section{display:block;padding:1.75rem 1.5rem;margin-bottom:4rem}.question-form{margin-top:1.5rem}.question-form .button{width:100%;justify-content:space-between}}
+
 .breadcrumbs{padding-top:2rem;font-size:.8125rem;color:var(--muted)}
 .breadcrumbs ol{display:flex;flex-wrap:wrap;gap:.65rem;list-style:none;margin:0;padding:0}
 .breadcrumbs li+li:before{content:'/';margin-right:.65rem;color:#ac8f92}

@@ -20,7 +20,7 @@ Preferências, orçamento e possibilidades de organização também fazem parte 
 
 ## Confirme os detalhes antes de ir.
 
-Ao agendar, confirme diretamente com a Fernanda:
+Ao agendar, confirme:
 
 - Data, horário e modalidade do atendimento.
 - Local do encontro e orientações de acesso, quando presencial.
@@ -37,7 +37,7 @@ Este guia reúne informações práticas para organizar o primeiro contato. Ele 
 
 Fernanda Lemos · Nutricionista · CRN 9-30894
 
-Rua Boa Vista, 135, apto 301 · Santa Casa · Passos - MG · CEP 37904-018
+Rua Boa Vista, 135, sala 301 · Santa Casa · Passos - MG · CEP 37904-018
 
 WhatsApp: (35) 99981-9701
 
