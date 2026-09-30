@@ -21,9 +21,8 @@ o simples também nutre.
 
 Ciência que orientaEscuta que acolheCuidado que respeita
 
-UM OLHAR INTEIRO PARA VOCÊCorpo, rotina & história.
-
-O cuidado começa na escuta.
+Fernanda LemosNutricionista
+CRN 9-30894
 
 01 / Meu olhar
 

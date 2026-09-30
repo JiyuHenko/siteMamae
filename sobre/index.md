@@ -4,9 +4,8 @@
 
 Página oficial: https://jiyuhenko.github.io/siteMamae/sobre/
 
-UM OLHAR INTEIRO PARA VOCÊCorpo, rotina & história.
-
-O cuidado começa na escuta.
+Fernanda LemosNutricionista
+CRN 9-30894
 
 01 / Meu olhar
 

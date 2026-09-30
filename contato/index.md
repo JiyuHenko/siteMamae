@@ -14,7 +14,7 @@ Fale diretamente com a Fernanda para consultar horários, valores e formas de at
 
 E-mail[fernandamlsf@gmail.com](mailto:fernandamlsf@gmail.com)
 
-Instagram[@nutri.fernandalemos ↗](https://www.instagram.com/nutri.fernandalemos/)
+Instagram[@nutri.fernandalemos](https://www.instagram.com/nutri.fernandalemos/)
 
 Como chegar · Passos, MG
 

@@ -39,6 +39,18 @@
 .contact-dialog label,.contact-dialog .dialog-note,.contact-dialog .button{font-size:.875rem}
 .contact-dialog::backdrop{background:rgb(55 35 43 / .48)}
 
+/* The supplied portrait keeps its natural framing and a quiet brand detail. */
+.about-portrait{width:100%;max-width:470px;min-width:0;margin:0;justify-self:start}
+.about-portrait picture{display:block;overflow:hidden;border-radius:170px 170px 12px 12px;border:1px solid var(--line);background:var(--blush);box-shadow:0 16px 40px #6e465210}
+.about-portrait img{display:block;width:100%;height:auto}
+.about-portrait-caption{display:flex;justify-content:space-between;align-items:center;gap:1rem;margin-top:1rem;padding-inline:.4rem}
+.about-portrait-caption strong{font:500 1.8rem/1.1 var(--display);color:var(--rose)}
+.about-portrait-caption>span{font-size:.75rem;line-height:1.7;color:var(--muted);text-align:right}
+.contact-channels{display:flex;flex-wrap:wrap;gap:.2rem 1.5rem;max-width:560px;margin-top:1.5rem;padding-top:.75rem;border-top:1px solid #c7a5a3}
+.contact-channels a{display:inline-flex;align-items:center;gap:.4rem;min-height:44px;max-width:100%;font-size:.875rem;overflow-wrap:anywhere}
+.contact-channels a:hover{text-decoration:underline;text-underline-offset:4px;color:var(--rose)}
+@media(max-width:760px){.about-portrait{max-width:430px;align-self:center}.about-portrait picture{border-radius:140px 140px 10px 10px}.about-portrait-caption strong{font-size:1.6rem}.contact-channels{flex-direction:column;align-items:flex-start;gap:0;margin-top:1.25rem}}
+
 /* Each page has a real URL and a visible path back through the content. */
 .breadcrumbs{padding-top:2rem;font-size:.8125rem;color:var(--muted)}
 .breadcrumbs ol{display:flex;flex-wrap:wrap;gap:.65rem;list-style:none;margin:0;padding:0}
