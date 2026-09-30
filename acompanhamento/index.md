@@ -2,7 +2,7 @@
 
 > Entenda a proposta de acompanhamento nutricional de Fernanda Lemos: escuta, construção do cuidado e ajustes que consideram sua rotina e preferências.
 
-Página oficial: https://jiyuhenko.github.io/siteMamae/acompanhamento/
+Página oficial: https://nutri.fernandalemos.com.br/acompanhamento/
 
 02 / Seu ponto de partida
 
@@ -19,7 +19,7 @@ Seus horários, preferências e possibilidades entram na conversa. A ideia é ap
 - Conversar sobre organização e preferências
 - Construir mudanças possíveis
 
-[Quero conversar sobre isso](https://jiyuhenko.github.io/siteMamae/contato/?assunto=Minha%20rotina%20alimentar)
+[Quero conversar sobre isso](https://nutri.fernandalemos.com.br/contato/?assunto=Minha%20rotina%20alimentar)
 
 ### Há espaço para o prazer. E para a sua história.
 
@@ -29,7 +29,7 @@ Comer envolve muito mais do que nutrientes. Preferências, momentos à mesa e ex
 - Acolher dúvidas e dificuldades
 - Buscar um caminho com mais autonomia
 
-[Quero conversar sobre isso](https://jiyuhenko.github.io/siteMamae/contato/?assunto=Minha%20rela%C3%A7%C3%A3o%20com%20a%20comida)
+[Quero conversar sobre isso](https://nutri.fernandalemos.com.br/contato/?assunto=Minha%20rela%C3%A7%C3%A3o%20com%20a%20comida)
 
 ### Você merece um lugar na sua própria rotina.
 
@@ -39,7 +39,7 @@ Talvez o primeiro passo seja reservar um momento para você. Seus objetivos e o 
 - Considerar seu contexto e suas necessidades
 - Definir prioridades junto com você
 
-[Quero conversar sobre isso](https://jiyuhenko.github.io/siteMamae/contato/?assunto=Meu%20bem-estar)
+[Quero conversar sobre isso](https://nutri.fernandalemos.com.br/contato/?assunto=Meu%20bem-estar)
 
 03 / O acompanhamento
 
@@ -80,7 +80,7 @@ Antes de agendar
 
 Valores, horários, modalidades e local de atendimento são combinados no agendamento. O site apresenta a proposta do acompanhamento; cada cuidado depende de uma avaliação individual.
 
-[Consultar disponibilidade](https://jiyuhenko.github.io/siteMamae/contato/)
+[Consultar disponibilidade](https://nutri.fernandalemos.com.br/contato/)
 
 ## Identificação e contato
 

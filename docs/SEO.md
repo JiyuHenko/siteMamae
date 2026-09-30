@@ -13,22 +13,22 @@
 
 Não há promessa de indexação, posição em buscas ou recomendação por assistentes. A qualidade da informação, reputação real e consistência dos dados continuam essenciais.
 
-## A particularidade do robots.txt no GitHub Pages
+## Domínio próprio e robots.txt
 
-O endereço atual é `https://jiyuhenko.github.io/siteMamae/`. O arquivo deste repositório será servido em `/siteMamae/robots.txt`, mas buscadores procuram as regras de robôs em **`https://jiyuhenko.github.io/robots.txt`**, na raiz da origem. Um arquivo dentro do subdiretório não controla o rastreamento do projeto.
+O endereço oficial configurado é **`https://nutri.fernandalemos.com.br/`**, servido pelo GitHub Pages. Canonical, Open Graph, JSON-LD, sitemap, Markdown e llms usam esse subdomínio, sem o caminho `/siteMamae/`.
 
-O arquivo gerado fica pronto para quando o site usar um domínio próprio cuja raiz aponte para este repositório. Para aplicar regras no domínio compartilhado atual, seria necessário gerenciar o site de usuário `JiyuHenko.github.io` e seu `robots.txt`, sem prejudicar outros projetos. Esse outro repositório não foi alterado.
+Depois da conexão DNS, o arquivo estará em **`https://nutri.fernandalemos.com.br/robots.txt`**, na raiz da origem, onde suas regras são efetivas. A configuração do domínio e a ativação de HTTPS estão descritas em [Domínio e hospedagem](DOMAIN.md).
 
-A ausência de um robots próprio efetivo não bloqueia por si só o site. O sitemap do projeto pode ser enviado diretamente no Search Console. Confirme também que qualquer robots existente na raiz não bloqueia `/siteMamae/`.
+O endereço anterior `https://jiyuhenko.github.io/siteMamae/` usava um subdiretório: seu `robots.txt` não controlava a origem compartilhada. O repositório de usuário `JiyuHenko.github.io` continua independente deste projeto.
 
 Referência: [Google — localização e criação do robots.txt](https://developers.google.com/crawling/docs/robots-txt/create-robots-txt).
 
 ## Sitemap e Search Console
 
-Após o proprietário publicar a branch:
+Após conectar o DNS e confirmar HTTPS:
 
 1. Confirmar o endereço definitivo e verificar uma propriedade no Search Console.
-2. Enviar `https://jiyuhenko.github.io/siteMamae/sitemap.xml`.
+2. Enviar `https://nutri.fernandalemos.com.br/sitemap.xml`.
 3. Inspecionar a página inicial, contato e as páginas principais; corrigir eventuais problemas indicados pelo Google.
 4. Acompanhar indexação e pesquisas reais antes de ampliar conteúdo.
 
@@ -40,7 +40,7 @@ Após o proprietário publicar a branch:
 
 O Google informa que seus recursos de IA usam as práticas normais de SEO e não exigem um arquivo especial de IA. A presença de `llms.txt` não deve ser tratada como fator de posicionamento ou integração garantida com qualquer assistente.
 
-O robots inclui permissão para `OAI-SearchBot`, responsável por descoberta em buscas da OpenAI, respeitando a limitação de raiz descrita acima. `GPTBot` tem finalidade distinta. A política geral atual permite rastreadores; qualquer decisão futura de bloqueio de treinamento deve ser tratada separadamente da busca e configurada em um robots efetivo.
+O robots inclui permissão para `OAI-SearchBot`, responsável por descoberta em buscas da OpenAI. `GPTBot` tem finalidade distinta. A política geral atual permite rastreadores; qualquer decisão futura de bloqueio de treinamento deve ser tratada separadamente da busca e configurada em um robots efetivo.
 
 Referências: [proposta llms.txt](https://llmstxt.org/), [Google — recursos de IA e o site](https://developers.google.com/search/docs/appearance/ai-features), [OpenAI — documentação dos robôs](https://developers.openai.com/api/docs/bots).
 
@@ -54,4 +54,4 @@ Priorizar materiais úteis, perguntas reais e artigos revisados pela profissiona
 
 ## O que não foi executado
 
-Nenhuma mudança de hospedagem, domínio, propriedade do Search Console, solicitação de indexação ou criação de Perfil da Empresa foi feita nesta entrega.
+A hospedagem continua no GitHub Pages. O repositório está preparado para `nutri.fernandalemos.com.br`, com `CNAME` e URLs atualizados. DNS e certificado devem ser confirmados após a configuração no provedor. Não foi criada propriedade do Search Console, solicitação de indexação ou Perfil da Empresa.

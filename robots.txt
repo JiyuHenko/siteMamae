@@ -5,4 +5,4 @@ Allow: /
 User-agent: OAI-SearchBot
 Allow: /
 
-Sitemap: https://jiyuhenko.github.io/siteMamae/sitemap.xml
+Sitemap: https://nutri.fernandalemos.com.br/sitemap.xml

@@ -2,7 +2,7 @@
 
 > Fernanda Lemos, nutricionista em Passos, MG. CRN 9-30894. Conheça a proposta de acompanhamento e converse pelo WhatsApp sobre sua consulta.
 
-Página oficial: https://jiyuhenko.github.io/siteMamae/
+Página oficial: https://nutri.fernandalemos.com.br/
 
 Nutricionista em Passos, MG
 
@@ -10,14 +10,14 @@ Nutricionista em Passos, MG
 
 Uma alimentação que faz sentido para você. Com equilíbrio, prazer e espaço para a vida real.
 
-[Conheça o acompanhamento](https://jiyuhenko.github.io/siteMamae/acompanhamento/#caminho)
+[Conheça o acompanhamento](https://nutri.fernandalemos.com.br/acompanhamento/#caminho)
 
 Fernanda Lemos · CRN 9-30894
 Escuta, individualidade e cuidado.
 
 o simples também nutre.
 
-[Um cuidado mais próximo](https://jiyuhenko.github.io/siteMamae/sobre/)
+[Um cuidado mais próximo](https://nutri.fernandalemos.com.br/sobre/)
 
 Ciência que orientaEscuta que acolheCuidado que respeita
 
@@ -33,7 +33,7 @@ Nutricionista, com um olhar para a pessoa inteira.
 
 Alimentação também é rotina, memória, cultura e afeto. Por isso, acredito em um cuidado que começa conhecendo sua história, suas possibilidades e o que faz sentido no seu dia a dia.
 
-[Conheça a Fernanda](https://jiyuhenko.github.io/siteMamae/sobre/)
+[Conheça a Fernanda](https://nutri.fernandalemos.com.br/sobre/)
 
 Encontre seu caminho
 
@@ -42,7 +42,7 @@ Encontre seu caminho
 Conheça a proposta, tire suas dúvidas
 e escolha como dar o próximo passo.
 
-[01 / O cuidado ### Como funciona o acompanhamento Da primeira conversa à construção de um caminho possível para a sua rotina. Conhecer a proposta](https://jiyuhenko.github.io/siteMamae/acompanhamento/) [02 / Antes de começar ### Leituras para o primeiro passo Informações práticas para chegar à consulta com suas dúvidas e expectativas. Explorar os conteúdos](https://jiyuhenko.github.io/siteMamae/conteudos/) [03 / Vamos conversar ### Seu encontro com o cuidado WhatsApp, canais de contato e orientações para chegar ao endereço em Passos. Entrar em contato](https://jiyuhenko.github.io/siteMamae/contato/)
+[01 / O cuidado ### Como funciona o acompanhamento Da primeira conversa à construção de um caminho possível para a sua rotina. Conhecer a proposta](https://nutri.fernandalemos.com.br/acompanhamento/) [02 / Antes de começar ### Leituras para o primeiro passo Informações práticas para chegar à consulta com suas dúvidas e expectativas. Explorar os conteúdos](https://nutri.fernandalemos.com.br/conteudos/) [03 / Vamos conversar ### Seu encontro com o cuidado WhatsApp, canais de contato e orientações para chegar ao endereço em Passos. Entrar em contato](https://nutri.fernandalemos.com.br/contato/)
 
 Para levar com você
 

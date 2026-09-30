@@ -2,7 +2,7 @@
 
 > Agende com Fernanda Lemos pelo WhatsApp (35) 99981-9701. Veja e-mail, Instagram, endereço em Passos, MG e mapa com orientações de como chegar.
 
-Página oficial: https://jiyuhenko.github.io/siteMamae/contato/
+Página oficial: https://nutri.fernandalemos.com.br/contato/
 
 Seu primeiro contato
 
