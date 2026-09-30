@@ -15,9 +15,9 @@ Não há promessa de indexação, posição em buscas ou recomendação por assi
 
 ## Domínio próprio e robots.txt
 
-O endereço oficial configurado é **`https://nutri.fernandalemos.com.br/`**, servido pelo GitHub Pages. Canonical, Open Graph, JSON-LD, sitemap, Markdown e llms usam esse subdomínio, sem o caminho `/siteMamae/`.
+O endereço oficial configurado é **`https://nutrifernandalemos.com.br/`**, servido pelo GitHub Pages. Canonical, Open Graph, JSON-LD, sitemap, Markdown e llms usam esse domínio, sem o caminho `/siteMamae/`.
 
-Depois da conexão DNS, o arquivo estará em **`https://nutri.fernandalemos.com.br/robots.txt`**, na raiz da origem, onde suas regras são efetivas. A configuração do domínio e a ativação de HTTPS estão descritas em [Domínio e hospedagem](DOMAIN.md).
+Depois da conexão DNS, o arquivo estará em **`https://nutrifernandalemos.com.br/robots.txt`**, na raiz da origem, onde suas regras são efetivas. A configuração do domínio e a ativação de HTTPS estão descritas em [Domínio e hospedagem](DOMAIN.md).
 
 O endereço anterior `https://jiyuhenko.github.io/siteMamae/` usava um subdiretório: seu `robots.txt` não controlava a origem compartilhada. O repositório de usuário `JiyuHenko.github.io` continua independente deste projeto.
 
@@ -28,7 +28,7 @@ Referência: [Google — localização e criação do robots.txt](https://develo
 Após conectar o DNS e confirmar HTTPS:
 
 1. Confirmar o endereço definitivo e verificar uma propriedade no Search Console.
-2. Enviar `https://nutri.fernandalemos.com.br/sitemap.xml`.
+2. Enviar `https://nutrifernandalemos.com.br/sitemap.xml`.
 3. Inspecionar a página inicial, contato e as páginas principais; corrigir eventuais problemas indicados pelo Google.
 4. Acompanhar indexação e pesquisas reais antes de ampliar conteúdo.
 
@@ -54,4 +54,4 @@ Priorizar materiais úteis, perguntas reais e artigos revisados pela profissiona
 
 ## O que não foi executado
 
-A hospedagem continua no GitHub Pages. O repositório está preparado para `nutri.fernandalemos.com.br`, com `CNAME` e URLs atualizados. DNS e certificado devem ser confirmados após a configuração no provedor. Não foi criada propriedade do Search Console, solicitação de indexação ou Perfil da Empresa.
+A hospedagem continua no GitHub Pages. O repositório está preparado para `nutrifernandalemos.com.br`, com `CNAME` e URLs atualizados. DNS e certificado devem ser confirmados após a configuração no provedor. Não foi criada propriedade do Search Console, solicitação de indexação ou Perfil da Empresa.

@@ -15,16 +15,16 @@ Horários, valores, modalidades e local da consulta são confirmados pelo canal 
 
 ## Páginas em Markdown
 
-- [Início](https://nutri.fernandalemos.com.br/index.md): Fernanda Lemos, nutricionista em Passos, MG. CRN 9-30894. Conheça a proposta de acompanhamento e converse pelo WhatsApp sobre sua consulta.
-- [Sobre a Fernanda](https://nutri.fernandalemos.com.br/sobre/index.md): Conheça Fernanda Lemos, nutricionista em Passos, MG, CRN 9-30894, e sua proposta de cuidado com escuta, individualidade e respeito à rotina.
-- [Acompanhamento](https://nutri.fernandalemos.com.br/acompanhamento/index.md): Entenda a proposta de acompanhamento nutricional de Fernanda Lemos: escuta, construção do cuidado e ajustes que consideram sua rotina e preferências.
-- [Conteúdos](https://nutri.fernandalemos.com.br/conteudos/index.md): Informações práticas para conhecer o acompanhamento de Fernanda Lemos, organizar a primeira consulta e encontrar respostas para suas dúvidas.
-- [Dúvidas frequentes](https://nutri.fernandalemos.com.br/duvidas/index.md): Tire dúvidas sobre a primeira consulta, preferências alimentares e agendamento com Fernanda Lemos, nutricionista em Passos, MG.
-- [Contato e localização](https://nutri.fernandalemos.com.br/contato/index.md): Agende com Fernanda Lemos pelo WhatsApp (35) 99981-9701. Veja e-mail, Instagram, endereço em Passos, MG e mapa com orientações de como chegar.
-- [Sua primeira consulta](https://nutri.fernandalemos.com.br/conteudos/primeira-consulta/index.md): Veja o que vale anotar e quais informações confirmar com Fernanda Lemos antes da primeira consulta nutricional: dúvidas, rotina, local e agendamento.
+- [Início](https://nutrifernandalemos.com.br/index.md): Fernanda Lemos, nutricionista em Passos, MG. CRN 9-30894. Conheça a proposta de acompanhamento e converse pelo WhatsApp sobre sua consulta.
+- [Sobre a Fernanda](https://nutrifernandalemos.com.br/sobre/index.md): Conheça Fernanda Lemos, nutricionista em Passos, MG, CRN 9-30894, e sua proposta de cuidado com escuta, individualidade e respeito à rotina.
+- [Acompanhamento](https://nutrifernandalemos.com.br/acompanhamento/index.md): Entenda a proposta de acompanhamento nutricional de Fernanda Lemos: escuta, construção do cuidado e ajustes que consideram sua rotina e preferências.
+- [Conteúdos](https://nutrifernandalemos.com.br/conteudos/index.md): Informações práticas para conhecer o acompanhamento de Fernanda Lemos, organizar a primeira consulta e encontrar respostas para suas dúvidas.
+- [Dúvidas frequentes](https://nutrifernandalemos.com.br/duvidas/index.md): Tire dúvidas sobre a primeira consulta, preferências alimentares e agendamento com Fernanda Lemos, nutricionista em Passos, MG.
+- [Contato e localização](https://nutrifernandalemos.com.br/contato/index.md): Agende com Fernanda Lemos pelo WhatsApp (35) 99981-9701. Veja e-mail, Instagram, endereço em Passos, MG e mapa com orientações de como chegar.
+- [Sua primeira consulta](https://nutrifernandalemos.com.br/conteudos/primeira-consulta/index.md): Veja o que vale anotar e quais informações confirmar com Fernanda Lemos antes da primeira consulta nutricional: dúvidas, rotina, local e agendamento.
 
 ## Referências do site
 
-- [Página inicial](https://nutri.fernandalemos.com.br/)
-- [Sitemap](https://nutri.fernandalemos.com.br/sitemap.xml)
-- [Privacidade](https://nutri.fernandalemos.com.br/privacidade.html)
+- [Página inicial](https://nutrifernandalemos.com.br/)
+- [Sitemap](https://nutrifernandalemos.com.br/sitemap.xml)
+- [Privacidade](https://nutrifernandalemos.com.br/privacidade.html)

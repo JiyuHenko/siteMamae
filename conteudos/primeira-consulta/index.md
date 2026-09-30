@@ -2,7 +2,7 @@
 
 > Veja o que vale anotar e quais informações confirmar com Fernanda Lemos antes da primeira consulta nutricional: dúvidas, rotina, local e agendamento.
 
-Página oficial: https://nutri.fernandalemos.com.br/conteudos/primeira-consulta/
+Página oficial: https://nutrifernandalemos.com.br/conteudos/primeira-consulta/
 
 A primeira conversa é um espaço para apresentar a sua rotina e o que você busca. Algumas anotações simples podem ajudar a lembrar do que gostaria de compartilhar.
 
@@ -31,7 +31,7 @@ Essa confirmação evita dúvidas de última hora. A preparação específica pa
 
 Este guia reúne informações práticas para organizar o primeiro contato. Ele não substitui a avaliação nutricional individual.
 
-[Ver outras dúvidas](https://nutri.fernandalemos.com.br/duvidas/) [Conversar com a Fernanda](https://nutri.fernandalemos.com.br/contato/)
+[Ver outras dúvidas](https://nutrifernandalemos.com.br/duvidas/) [Conversar com a Fernanda](https://nutrifernandalemos.com.br/contato/)
 
 ## Identificação e contato
 

@@ -2,7 +2,7 @@
 
 > Tire dúvidas sobre a primeira consulta, preferências alimentares e agendamento com Fernanda Lemos, nutricionista em Passos, MG.
 
-Página oficial: https://nutri.fernandalemos.com.br/duvidas/
+Página oficial: https://nutrifernandalemos.com.br/duvidas/
 
 Informação e acolhimento
 
@@ -11,7 +11,7 @@ Informação e acolhimento
 Começar fica mais leve quando
 há espaço para tirar dúvidas.
 
-[Tenho outra pergunta](https://nutri.fernandalemos.com.br/duvidas/#sua-pergunta)
+[Tenho outra pergunta](https://nutrifernandalemos.com.br/duvidas/#sua-pergunta)
 
 Preciso mudar tudo para começar?Você pode chegar como está. A primeira conversa é justamente para entender sua rotina e pensar em prioridades possíveis. O acompanhamento é construído a partir do seu momento.
 
@@ -19,7 +19,7 @@ O acompanhamento considera minhas preferências?Preferências, rotina, cultura a
 
 O que devo levar para a primeira consulta?Ao confirmar o agendamento, pergunte sobre as orientações para o primeiro encontro e a necessidade de levar exames ou outros documentos. Vale anotar suas dúvidas e o que gostaria de conversar.
 
-Como saber os valores e as formas de atendimento?Você pode consultar valores, horários, local e modalidades de atendimento pelo canal de agendamento. As informações estão na página de [contato](https://nutri.fernandalemos.com.br/contato/) .
+Como saber os valores e as formas de atendimento?Você pode consultar valores, horários, local e modalidades de atendimento pelo canal de agendamento. As informações estão na página de [contato](https://nutrifernandalemos.com.br/contato/) .
 
 Já tentei antes. Posso recomeçar?Experiências anteriores também fazem parte da sua história. Você pode compartilhar o que funcionou, o que foi difícil e o que espera de um novo acompanhamento. Essa escuta ajuda a construir o próximo passo.
 

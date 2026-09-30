@@ -2,7 +2,7 @@
 
 Site institucional com identidade rosada, páginas estáticas e contato direto. HTML semântico, CSS e JavaScript modular, sem framework ou dependências de produção. Fontes, imagens e marcas locais.
 
-O código está em **`main`**, sincronizado com a branch **`codex/rosa-multipaginas-seo`**, usada como origem do GitHub Pages. A hospedagem continua no GitHub Pages, com o domínio próprio **`nutri.fernandalemos.com.br`**. A conexão depende do registro DNS descrito em [Domínio e hospedagem](docs/DOMAIN.md).
+O código está em **`main`**, sincronizado com a branch **`codex/rosa-multipaginas-seo`**, usada como origem do GitHub Pages. A hospedagem continua no GitHub Pages, com o domínio próprio **`nutrifernandalemos.com.br`**. A conexão depende do registro DNS descrito em [Domínio e hospedagem](docs/DOMAIN.md).
 
 ## Executar e validar
 
@@ -33,7 +33,7 @@ Os arquivos HTML gerados ficam versionados. O GitHub Pages pode servi-los direta
 | `/privacidade.html` | Funcionamento do site e serviços externos |
 | `/404.html` | Recuperação de endereços inexistentes |
 
-Os caminhos são relativos à base configurada: `https://nutri.fernandalemos.com.br/`.
+Os caminhos são relativos à base configurada: `https://nutrifernandalemos.com.br/`.
 
 ## Editar
 

@@ -2,7 +2,7 @@
 
 > Conheça Fernanda Lemos, nutricionista em Passos, MG, CRN 9-30894, e sua proposta de cuidado com escuta, individualidade e respeito à rotina.
 
-Página oficial: https://nutri.fernandalemos.com.br/sobre/
+Página oficial: https://nutrifernandalemos.com.br/sobre/
 
 Fernanda LemosNutricionista
 CRN 9-30894
@@ -18,7 +18,7 @@ Alimentação também é rotina, memória, cultura e afeto. Por isso, acredito e
 
 A proposta é construir um caminho possível, com orientação e escolhas conscientes. Um passo de cada vez, respeitando o seu ritmo.
 
-[Encontre seu ponto de partida](https://nutri.fernandalemos.com.br/acompanhamento/#para-voce)
+[Encontre seu ponto de partida](https://nutrifernandalemos.com.br/acompanhamento/#para-voce)
 
 O que orienta esse olhar
 

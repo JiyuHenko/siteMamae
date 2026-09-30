@@ -18,6 +18,6 @@ export const siteConfig = Object.freeze({
   country: 'BR',
   // Endereço consultado no mapa; não representa um Perfil da Empresa já cadastrado.
   mapsQuery: 'Rua Boa Vista, 135, Santa Casa, Passos, MG, 37904-018',
-  // Domínio próprio servido pelo GitHub Pages, na raiz do subdomínio.
-  siteUrl: 'https://nutri.fernandalemos.com.br',
+  // Domínio próprio servido pelo GitHub Pages, na raiz do domínio.
+  siteUrl: 'https://nutrifernandalemos.com.br',
 });

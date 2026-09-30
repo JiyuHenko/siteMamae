@@ -2,14 +2,14 @@
 
 > Informações práticas para conhecer o acompanhamento de Fernanda Lemos, organizar a primeira consulta e encontrar respostas para suas dúvidas.
 
-Página oficial: https://nutri.fernandalemos.com.br/conteudos/
+Página oficial: https://nutrifernandalemos.com.br/conteudos/
 
-[Guia para o primeiro encontro ## Sua primeira consulta, com mais tranquilidade. O que vale anotar, quais detalhes confirmar e como levar suas perguntas para a conversa. Ler o guia](https://nutri.fernandalemos.com.br/conteudos/primeira-consulta/)
+[Guia para o primeiro encontro ## Sua primeira consulta, com mais tranquilidade. O que vale anotar, quais detalhes confirmar e como levar suas perguntas para a conversa. Ler o guia](https://nutrifernandalemos.com.br/conteudos/primeira-consulta/)
 Continue conhecendo
 
 ## Informação que aproxima você do cuidado.
 
-[A proposta Como funciona o acompanhamento](https://nutri.fernandalemos.com.br/acompanhamento/) [Perguntas frequentes O que você gostaria de saber?](https://nutri.fernandalemos.com.br/duvidas/) [Também no Instagram Acompanhe @nutri.fernandalemos](https://www.instagram.com/nutri.fernandalemos/)
+[A proposta Como funciona o acompanhamento](https://nutrifernandalemos.com.br/acompanhamento/) [Perguntas frequentes O que você gostaria de saber?](https://nutrifernandalemos.com.br/duvidas/) [Também no Instagram Acompanhe @nutri.fernandalemos](https://www.instagram.com/nutri.fernandalemos/)
 
 ## Identificação e contato
 
