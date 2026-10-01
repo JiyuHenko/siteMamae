@@ -6,7 +6,7 @@ export const siteConfig = Object.freeze({
   phoneLabel: '(35) 99981-9701',
   instagram: 'https://www.instagram.com/nutri.fernandalemos/',
   instagramLabel: '@nutri.fernandalemos',
-  portrait: 'assets/img/fernanda-lemos.webp',
+  portrait: 'assets/img/fernanda-lemos-retrato-1024.webp',
   crn: 'CRN 9-30894',
   email: 'fernandamlsf@gmail.com',
   address: 'Rua Boa Vista, 135, sala 301 · Santa Casa · Passos - MG · CEP 37904-018',

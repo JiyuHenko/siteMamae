@@ -39,7 +39,7 @@
 .contact-dialog label,.contact-dialog .dialog-note,.contact-dialog .button{font-size:.875rem}
 .contact-dialog::backdrop{background:rgb(55 35 43 / .48)}
 
-/* The supplied portrait keeps its natural framing and a quiet brand detail. */
+/* The supplied portrait keeps its full natural framing. */
 .about-portrait{width:100%;max-width:470px;min-width:0;margin:0;justify-self:start}
 .about-portrait picture{display:block;overflow:hidden;border-radius:170px 170px 12px 12px;border:1px solid var(--line);background:var(--blush);box-shadow:0 16px 40px #6e465210}
 .about-portrait img{display:block;width:100%;height:auto}

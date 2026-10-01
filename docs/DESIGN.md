@@ -11,7 +11,7 @@ Um espaço editorial acolhedor: papel, cerâmica, alimento e luz natural. A marc
 - Texto `#48363e`, texto secundário `#71616a`, blush `#e8c9c6`.
 - Verde-oliva `#58614b` em detalhes, números e orientação de localização.
 - Cormorant Garamond nos títulos; DM Sans no corpo e controles. Fontes locais.
-- Fotografias do projeto existente, com luz natural, linho e cerâmica. Retrato fornecido da Fernanda na página inicial e na página Sobre, com um detalhe fino de folhas e curva rosada inspirado na marca. Sem métricas inventadas ou depoimentos fictícios.
+- Fotografias do projeto existente, com luz natural, linho e cerâmica. Novo retrato original fornecido da Fernanda na página inicial e na página Sobre, com fundo e enquadramento integral preservados em proporção 2:3. Sem métricas inventadas ou depoimentos fictícios.
 
 ## Navegação e páginas
 

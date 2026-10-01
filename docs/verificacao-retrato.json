@@ -1,0 +1,226 @@
+{
+  "date": "2026-09-30",
+  "baseCommit": "38a74ea70a364910824553a16b0b38679265ba01",
+  "branch": "codex/rosa-multipaginas-seo",
+  "original": {
+    "file": "image(7).png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 2027971,
+    "sha256": "150010374abba5d8a39fcbae976a0de10936c48d6c65ba8648198a68b4d90521"
+  },
+  "derivatives": [
+    {
+      "width": 1024,
+      "height": 1536,
+      "bytes": 92096,
+      "sha256": "e4e37ce9089541e876c66a594a5b9cd430ae5cbd0e1ec454de6f87c283b305ac"
+    },
+    {
+      "width": 800,
+      "height": 1200,
+      "bytes": 62872,
+      "sha256": "5f3d3186719e57451d47576c6e1844dfb1cf4e81b660693fd259b005de43ad25"
+    },
+    {
+      "width": 480,
+      "height": 720,
+      "bytes": 29340,
+      "sha256": "e4efe8d8bf2274a528a74b1e6ffa5970553e11ea13b81b5a9e785a1e7c5adeb5"
+    }
+  ],
+  "sourceHashes": {
+    "config.js": "95a962afffb452a78c3d497bd6277d35954bd529142e748c682bf1ada9370a1e",
+    "content/pages/home.html": "f51c04ca5d4716e25894a1348e7d3219394fcc039080f74b2f6b19671f6d9442",
+    "content/pages/sobre.html": "6ed2c7ce871ad74c5e000499c866f620da10a6ded931296c8bc23f5b51f48e1e",
+    "index.html": "ddd27aaefed4db6648d950753b590a06a2ab36f088eafb1c9f611048e528790e",
+    "sobre/index.html": "03e97bf07646957fae9271d87af3a1bc43074ee677c195c6631f1be90b0f6b37",
+    "assets/css/pages.css": "581cc6941fa4c1a3be53dcfb462392139daf8f8c576da4a99ae2f4a9118088ad"
+  },
+  "preview": {
+    "path": "retrato-preview.webp",
+    "width": 1200,
+    "height": 760,
+    "sha256": "94587adfc711e1646d0e407034ad6cd6d0e1f2a78c8caf9da6db67251dc6dbb5"
+  },
+  "results": [
+    {
+      "repo": "nutri",
+      "route": "/sobre/",
+      "width": 1440,
+      "dpr": 1,
+      "state": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "renderedWidth": 468,
+        "renderedHeight": 702,
+        "source": "/nutri/assets/img/fernanda-lemos-retrato-480.webp",
+        "complete": true,
+        "alt": "Fernanda Lemos, nutricionista em Passos, em seu retrato profissional",
+        "h1Count": 1,
+        "canonical": "https://nutrifernandalemos.com.br/sobre/",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "structuredPortraitCurrent": true,
+        "fontReady": true,
+        "widthProperty": 468,
+        "heightProperty": 702
+      },
+      "localErrors": 0
+    },
+    {
+      "repo": "nutri",
+      "route": "/",
+      "width": 1440,
+      "dpr": 1,
+      "state": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "renderedWidth": 468,
+        "renderedHeight": 702,
+        "source": "/nutri/assets/img/fernanda-lemos-retrato-480.webp",
+        "complete": true,
+        "alt": "Fernanda Lemos, nutricionista em Passos, em seu retrato profissional",
+        "h1Count": 1,
+        "canonical": "https://nutrifernandalemos.com.br/",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "structuredPortraitCurrent": true,
+        "fontReady": true,
+        "widthProperty": 468,
+        "heightProperty": 702
+      },
+      "localErrors": 0
+    },
+    {
+      "repo": "nutri",
+      "route": "/sobre/",
+      "width": 1024,
+      "dpr": 1,
+      "state": {
+        "viewport": 1024,
+        "scrollWidth": 1024,
+        "renderedWidth": 428.90625,
+        "renderedHeight": 643.359375,
+        "source": "/nutri/assets/img/fernanda-lemos-retrato-480.webp",
+        "complete": true,
+        "alt": "Fernanda Lemos, nutricionista em Passos, em seu retrato profissional",
+        "h1Count": 1,
+        "canonical": "https://nutrifernandalemos.com.br/sobre/",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "structuredPortraitCurrent": true,
+        "fontReady": true,
+        "widthProperty": 429,
+        "heightProperty": 643
+      },
+      "localErrors": 0
+    },
+    {
+      "repo": "nutri",
+      "route": "/",
+      "width": 1024,
+      "dpr": 1,
+      "state": {
+        "viewport": 1024,
+        "scrollWidth": 1024,
+        "renderedWidth": 428.90625,
+        "renderedHeight": 643.359375,
+        "source": "/nutri/assets/img/fernanda-lemos-retrato-480.webp",
+        "complete": true,
+        "alt": "Fernanda Lemos, nutricionista em Passos, em seu retrato profissional",
+        "h1Count": 1,
+        "canonical": "https://nutrifernandalemos.com.br/",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "structuredPortraitCurrent": true,
+        "fontReady": true,
+        "widthProperty": 429,
+        "heightProperty": 643
+      },
+      "localErrors": 0
+    },
+    {
+      "repo": "nutri",
+      "route": "/sobre/",
+      "width": 390,
+      "dpr": 1,
+      "state": {
+        "viewport": 390,
+        "scrollWidth": 390,
+        "renderedWidth": 348,
+        "renderedHeight": 522,
+        "source": "/nutri/assets/img/fernanda-lemos-retrato-480.webp",
+        "complete": true,
+        "alt": "Fernanda Lemos, nutricionista em Passos, em seu retrato profissional",
+        "h1Count": 1,
+        "canonical": "https://nutrifernandalemos.com.br/sobre/",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "structuredPortraitCurrent": true,
+        "fontReady": true,
+        "widthProperty": 348,
+        "heightProperty": 522
+      },
+      "localErrors": 0
+    },
+    {
+      "repo": "nutri",
+      "route": "/",
+      "width": 390,
+      "dpr": 1,
+      "state": {
+        "viewport": 390,
+        "scrollWidth": 390,
+        "renderedWidth": 348,
+        "renderedHeight": 522,
+        "source": "/nutri/assets/img/fernanda-lemos-retrato-480.webp",
+        "complete": true,
+        "alt": "Fernanda Lemos, nutricionista em Passos, em seu retrato profissional",
+        "h1Count": 1,
+        "canonical": "https://nutrifernandalemos.com.br/",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "structuredPortraitCurrent": true,
+        "fontReady": true,
+        "widthProperty": 348,
+        "heightProperty": 522
+      },
+      "localErrors": 0
+    },
+    {
+      "repo": "nutri",
+      "route": "/sobre/",
+      "width": 390,
+      "dpr": 2,
+      "motion": "normal",
+      "source": "/nutri/assets/img/fernanda-lemos-retrato-800.webp",
+      "visible": true
+    },
+    {
+      "repo": "nutri",
+      "route": "/",
+      "width": 390,
+      "dpr": 2,
+      "motion": "normal",
+      "source": "/nutri/assets/img/fernanda-lemos-retrato-800.webp",
+      "visible": true
+    },
+    {
+      "repo": "nutri",
+      "route": "/sobre/",
+      "width": 1440,
+      "dpr": 2,
+      "source": "/nutri/assets/img/fernanda-lemos-retrato-1024.webp",
+      "visible": true
+    },
+    {
+      "repo": "nutri",
+      "route": "/",
+      "width": 1440,
+      "dpr": 2,
+      "source": "/nutri/assets/img/fernanda-lemos-retrato-1024.webp",
+      "visible": true
+    }
+  ]
+}
